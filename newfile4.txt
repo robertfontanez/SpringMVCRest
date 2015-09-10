@@ -1,0 +1,2 @@
+
+New file 4 used for testing Git functionality
